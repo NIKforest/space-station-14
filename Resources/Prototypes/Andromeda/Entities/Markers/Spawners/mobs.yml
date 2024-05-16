@@ -21,4 +21,4 @@
       - state: green
   - type: ConditionalSpawner
     prototypes:
-      - MobGrizzly
+      - BaseMobGrizzly
